@@ -1,5 +1,6 @@
 import turtle
 import colorsys
+
 t = turtle.Turtle()
 turtle.Screen().bgcolor("black")
 t.speed(0)
